@@ -6,9 +6,9 @@ reps:
   - id: rep-015
     title: HodlForWhat — Bitcoin spending planner
     archetype: static-site
-    phase: design
+    phase: build
     last_gate:
-      phase: scope
-      result: approved-with-noted-concerns
-      at: 2026-05-26T15:55:00Z
-    updated_at: 2026-05-26T15:55:00Z
+      phase: design
+      result: approved
+      at: 2026-05-26T16:15:00Z
+    updated_at: 2026-05-26T16:15:00Z
