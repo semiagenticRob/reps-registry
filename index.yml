@@ -1,0 +1,5 @@
+# Portfolio index for the 100 Reps Project.
+# Written by registry-sync-agent at every gate approval.
+# Schema: list of reps, newest first.
+
+reps: []
