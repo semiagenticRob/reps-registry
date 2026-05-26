@@ -2,4 +2,13 @@
 # Written by registry-sync-agent at every gate approval.
 # Schema: list of reps, newest first.
 
-reps: []
+reps:
+  - id: rep-015
+    title: HodlForWhat — Bitcoin spending planner
+    archetype: static-site
+    phase: design
+    last_gate:
+      phase: scope
+      result: approved-with-noted-concerns
+      at: 2026-05-26T15:55:00Z
+    updated_at: 2026-05-26T15:55:00Z
