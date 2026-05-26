@@ -6,9 +6,10 @@ reps:
   - id: rep-015
     title: HodlForWhat — Bitcoin spending planner
     archetype: static-site
-    phase: deploy
+    phase: done
+    live_url: https://semiagenticrob.github.io/hodlforwhat/
     last_gate:
-      phase: test
+      phase: deploy
       result: approved
-      at: 2026-05-26T16:45:00Z
-    updated_at: 2026-05-26T16:45:00Z
+      at: 2026-05-26T16:55:00Z
+    updated_at: 2026-05-26T16:55:00Z
